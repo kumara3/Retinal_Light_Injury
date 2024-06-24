@@ -13,7 +13,7 @@ Conclusions: This work identifies acute and subacute cell type-specific response
 ![image](https://github.com/kumara3/Retinal_Light_Injury/assets/6117724/89e8021d-a547-40af-9b5d-236a0214bbd2)
 
 
-![image](https://github.com/kumara3/Retinal_Light_Injury/assets/6117724/11040a7e-e6d9-474e-8e36-3b9839c6f718)    ![image](https://github.com/kumara3/Retinal_Light_Injury/assets/6117724/41c6e090-4b10-4d3f-af75-ab53b1cbfd60)
+![image](https://github.com/kumara3/Retinal_Light_Injury/assets/6117724/41c6e090-4b10-4d3f-af75-ab53b1cbfd60)
 
 
 
