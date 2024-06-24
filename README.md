@@ -8,7 +8,11 @@ Results: Gene expression analysis generated 23 clusters encompassing all known m
 Conclusions: This work identifies acute and subacute cell type-specific responses to retinal photo-oxidative injury. A subpopulation of Muller glia seems to initiate the cellular recovery process. A better understanding of these responses may be helpful in identifying therapeutic approaches to minimize retinal damage and maximize recovery after exposure to injury.
 
 ![image](https://github.com/kumara3/Retinal_Light_Injury/assets/6117724/ba24315c-9d17-475a-9271-bd9c0d51d78d)
+
+
 ![image](https://github.com/kumara3/Retinal_Light_Injury/assets/6117724/89e8021d-a547-40af-9b5d-236a0214bbd2)
+
+
 ![image](https://github.com/kumara3/Retinal_Light_Injury/assets/6117724/11040a7e-e6d9-474e-8e36-3b9839c6f718)
 
 
